@@ -35,7 +35,7 @@
 </p>
 <br>
 <div align="center">
-  <img src="https://static.myfigurecollection.net/upload/pictures/2021/04/05/2680451.gif" width="300" align="center">
+  <img src="https://giffiles.alphacoders.com/171/171394.gif" width="300" align="center">
   <br>
   <br>
   No matter where we go, we are all connected.
