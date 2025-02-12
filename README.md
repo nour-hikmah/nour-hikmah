@@ -35,11 +35,5 @@
 </p>
 <br>
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/171/171394.gif" width="300" align="center">
-  <br>
-  <br>
-  No matter where we go, we are all connected.
-  <br>
-  <br>
   <a href="https://t.me/aetheric_0x">Telegram Aetheric group</a>
 </div>
