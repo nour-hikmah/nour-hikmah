@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/2497890817561323398/A66167DD480060B879581C2BA80E30897CEBB37D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
+  <h1>Nour Hikmah</h1>
+  <h4>Computer science | Cyber security | Robotics | Blockchain Developer | Game Developer </h4>
+  في ظلام الليل، عندما يغيب القمر، تظهر النجوم لتذكرنا بأن النور لا يختفي أبدًا، بل ينتظر وقته ليلمع من جديد.
+</div>
+<br>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,wasm,bash,lua,qt,gtk,vim,linux,blender,matlab," />
+  </a>
+</p>
+<br>
+<p align="center">
+  <h2>Contribute to our projects by making a donation</h2>
 
-<!--
-**nour-hikmah/nour-hikmah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h3>Bitcoin</h3>
 
-Here are some ideas to get you started:
+  ```
+  bc1pdvu9a9yqgnunh3hy27qz56nw5n6mjzss0m28w94lu8pt9nnj4rgqqh44es
+  ```
+  
+  <h3>Etherium</h3>
+  
+  ```
+  0xcD4900c0aB884291421376493d8d54e7BAA0d0ac
+  ```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>Solana</h3>
+  
+  ```
+  3GVVU3xfLEi21RLWEQsZ2KfDdwhEL31xA7Q5WatVEW2W
+  ```
+</p>
+<br>
+<div align="center">
+  <img src="https://static.myfigurecollection.net/upload/pictures/2021/04/05/2680451.gif" width="300" align="center">
+  <br>
+  <br>
+  No matter where we go, we are all connected.
+  <br>
+  <br>
+  <a href="https://t.me/aetheric_0x">Telegram Aetheric group</a>
+</div>
