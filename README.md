@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=nour-hikmah)
+
 <div align="center">
   <img src="https://steamuserimages-a.akamaihd.net/ugc/2497890817561323398/A66167DD480060B879581C2BA80E30897CEBB37D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
   <h1>Nour Hikmah</h1>
