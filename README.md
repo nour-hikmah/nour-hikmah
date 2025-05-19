@@ -3,7 +3,6 @@
 <div align="center">
   <h1>Nour Hikmah</h1>
   <h4>Computer science | Cyber security | Robotics | Blockchain Developer | Game Developer </h4>
-  في ظلام الليل، عندما يغيب القمر، تظهر النجوم لتذكرنا بأن النور لا يختفي أبدًا، بل ينتظر وقته ليلمع من جديد.
 </div>
 <br>
 <br>
