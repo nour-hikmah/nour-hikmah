@@ -1,7 +1,7 @@
-![](https://komarev.com/ghpvc/?username=nour-hikmah)
+![](https://komarev.com/ghpvc/?username=azrael-sec)
 
 <div align="center">
-  <h1>Nour Hikmah</h1>
+  <h1>Azrael Al-Hakeem</h1>
   <h4>Computer science | Cyber security | Robotics | Blockchain Developer | Game Developer </h4>
 </div>
 <br>
@@ -36,5 +36,5 @@
 </p>
 <br>
 <div align="center">
-  <a href="https://t.me/aetheric_0x">Telegram Aetheric group</a>
+  <a href="https://t.me/noor_sec">Telegram</a>
 </div>
